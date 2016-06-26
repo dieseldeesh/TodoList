@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Noted</string>
+    <string name="action_new_task">New Task</string>
+    <string name="task_name_hint">i.e. Math Homework</string>
+    <string name="task_notes_hint">i.e. Read pages 150-213</string>
+    <string name="importance">Priority</string>
+    <string name="status">Status</string>
+    <string name="task_name">Task Name</string>
+    <string name="dueDate">Due Date</string>
+    <string name="notes">Notes</string>
+    <string name="name_error">The length must be between 1 and 30 characters.</string>
+    <string name="date_error">The due date must be in the future.</string>
+    <string name="notes_error">The length must be between 0 and 150 characters.</string>
+    <string-array name="status">
+        <item>TODO</item>
+        <item>IN PROGRESS</item>
+        <item>COMPLETED</item>
+    </string-array>
+    <string-array name="importance">
+        <item>LOW</item>
+        <item>MEDIUM</item>
+        <item>HIGH</item>
+    </string-array>
+</resources>
