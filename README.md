@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 * [X] Add support for selecting the priority of each todo item (and display in listview item)
 * [X] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
+<img src="http://i.imgur.com/7lOb9zg.gif" width="300" />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Instructions
